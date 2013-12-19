@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="title">
+        <en-US>This is a tiny password generator!</en-US>
+        <de-DE>Dies ist ein kleiner Passwortgenerator!</de-DE>
+    </translation>
+    <translation id="howLong">
+        <en-US>How long should your password be?</en-US>
+        <de-DE>Wie lang soll das Passwort werden?</de-DE>
+    </translation>
+    <translation id="choose">
+        <en-US>What do you want to use?</en-US>
+        <de-DE>Was wollen Sie verwenden?</de-DE>
+    </translation>
+    <translation id="text1">
+        <en-US>Lower case</en-US>
+        <de-DE>Kleinbuchstaben</de-DE>
+    </translation>
+    <translation id="text2">
+        <en-US>Capitals</en-US>
+        <de-DE>Großbuchstaben</de-DE>
+    </translation>
+    <translation id="text3">
+        <en-US>Numbers</en-US>
+        <de-DE>Nummern</de-DE>
+    </translation>
+    <translation id="text4">
+        <en-US>Special characters</en-US>
+        <de-DE>Sonderzeichen</de-DE>
+    </translation>
+    <translation id="text5">
+        <en-US>Generate password!</en-US>
+        <de-DE>Passwort generieren!</de-DE>
+    </translation>
+    <translation id="result">
+        <en-US>Your new password:</en-US>
+        <de-DE>Dein neues Passwort:</de-DE>
+    </translation>
+</translations>
